@@ -1,0 +1,116 @@
+body{
+    margin:0px;
+    height:100%;
+    width:100%;
+}
+
+.orari_header{
+    display: table;
+    font-family: "Gotham Narrow SSm",sans-serif;
+    color: #66757F;
+    font-size: 20px;
+    float: auto;
+    width: 100%;
+    background-color: #F1F1F1;
+    vertical-align: middle;
+    height: 11%;
+    position: relative;
+}
+
+.dropDownList{
+    border: 1px solid #DDD;
+    font-family: "Gotham Narrow SSm",sans-serif;
+    font-size: 12px;
+    width: 450px;
+    height: 30px;
+}
+
+.dropDownList2{
+    height:30px;
+    border: 1px solid #DDD;
+    font-family: "Gotham Narrow SSm",sans-serif;
+    font-size: 12px;
+}
+
+.dropDownList3{
+    height:30px;
+    border: 1px solid #DDD;
+    font-family: "Gotham Narrow SSm",sans-serif;
+    font-size: 12px;
+}
+
+button{
+    vertical-align: middle;
+    border: 1px solid #DDD;
+    background-color: #F5F8FA;
+    height: 30px;
+}
+
+.staff{
+    font-family: "Gotham Narrow SSm",sans-serif;
+    color: #0084B4;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.tabela div {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    border: 1px solid #7BD148;
+}
+
+.tabela{
+    display: table;
+    font-family: "Gotham Narrow SSm",sans-serif;
+    color: #66757F;
+    font-size: 12px;
+    border-collapse: separate;
+    border-spacing: 2px;
+    margin:0px;
+    padding:0px;
+    width: 100%;
+    height: 91%;
+    position:absolute;
+    object-fit: fill;
+}
+
+.tabela th,.tabela td{
+    border-top: none;
+    border-bottom: 1px solid #DDD;
+    border-left: none;
+    border-right: 1px solid #DDD;
+    font-family: "Gotham Narrow SSm",sans-serif;
+    color: #66757F;
+}
+
+.tabela th{
+    font-size:12px;
+    padding: 2px 3px 3px 4px;
+}
+
+.tabela td{
+    padding:0px;
+    margin:0px;
+    font-size:11px;
+}
+
+.SistemeOperimi{
+    background-color: #F8D3D4;
+}
+
+.Databaze{
+    background-color: #DAF2CC;
+}
+
+.ProgramimNeWeb{
+    background-color: #DDE6FB;
+}
+
+.TeoriGjuhesh{
+    background-color: #C7F3F4;
+}
+
+.Rrjetat{
+    background-color: #FEF3CD;
+}
